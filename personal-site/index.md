@@ -1,7 +1,7 @@
 ---
 layout: home
 type: home
-title: Jeremias Menichelli
+title: LOWI
 excerpt: Personal site of Jeremias Menichelli — Curious mind, developer and writer
 ---
 <img src="assets/images/profilo.jpg"
